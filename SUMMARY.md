@@ -5,4 +5,5 @@
 * [Définir son budget pour le reste de sa vie](definir-son-budget.md)
 * [Tout commence par un grand inventaire](tout-commence-par-un-grand-inventaire.md)
 * [Distinguer les petits risques des grands risques](distinguer-les-petits-risques-des-grands-risques.md)
+* [Mental accounting](mental-accounting.md)
 
